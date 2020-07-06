@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+html,
+body,
+#sapper {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: rgb(29, 29, 29);
+}
+
+* {
+    font-family: 'Raleway', 'Helvetica Neue', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    color: azure;
+}
+
+pre,
+code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkslategray;
+    width: 100%;
+    padding: 0.25rem;
+    border-radius: 0.25rem;
+}
+
+html {
+    font-size: 1.2rem;
+}
